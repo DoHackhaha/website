@@ -1,0 +1,70 @@
+/* selected tag{
+   property: value;
+}*/
+.downloads{
+  background-position:left;
+  background-size: 50px;
+}
+.first{
+  color: green;
+  font-size: 30px;
+  text-align: center;
+  background-color: white;
+  font-style:bold;
+  font-size-adjust: auto;
+}
+p{
+  text-align: center;
+  padding-left: 20px;
+}
+.second{
+  color:green;
+  font-size: 20px;
+  font-style:oblique;
+  font-weight: 1000;
+}
+.third{
+  p{
+    color:green;
+    font-size: 15px;
+    text-align:center;
+  }
+}
+p{
+  color: red;
+}
+html{
+  background: url(             https://specials-images.forbesimg.com/imageserve/617853670/960x0.jpg?fit=scale             );
+
+  border-color: green;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ol{
+  shape-margin: 2px;
+  border: 2px;
+  width: 20%;
+  background-position: center;
+  margin: 10px 20px 10px 500px;
+
+}
+
+
+
+.MorseCode{
+  text-align: 10px left;
+  color: green;
+  /* background-color: white; */
+  font-size: 20px;
+  font-style: italic;
+}
+.Heaading{
+ color: red;
+}
+
+.badlanguage{
+  color:white;
+  background-color: green;
+  background-size: 20px 15px 20px 15px;
+    padding-right: auto;
+}
